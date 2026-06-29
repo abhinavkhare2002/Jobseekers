@@ -7,7 +7,7 @@ from jobspy import scrape_jobs  # Bypasses blocks across major portals
 KEYWORDS = ["Director Infrastructure", "Principal Architect", "Senior TPM"]
 LOCATION = "Bengaluru, India"
 SENDER_EMAIL = "abhinav.abhinavkhare@gmail.com"
-SENDER_PASSWORD = "iyrtpyadbahciwcq" 
+SENDER_PASSWORD = "******" 
 RECEIVER_EMAIL = "abhinav_khare2002@yahoo.com"
 
 def aggregate_market_jobs():
