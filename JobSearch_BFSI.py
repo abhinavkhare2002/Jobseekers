@@ -22,7 +22,7 @@ BFSI_COMPANIES = [
 ]
 
 SENDER_EMAIL = "abhinav.abhinavkhare@gmail.com"
-SENDER_PASSWORD = "iyrtpyadbahciwcq"  # Your secure 16-character code
+SENDER_PASSWORD = "********"  # Your secure 16-character code
 RECEIVER_EMAIL = "abhinav_khare2002@yahoo.com"
 
 DB_FILE = "sent_bfsi_jobs.txt"  # Isolated history tracking file for version 2.0
