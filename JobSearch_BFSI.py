@@ -21,9 +21,9 @@ BFSI_COMPANIES = [
     "nomura", "northern trust", "invesco", "blackrock", "allianz", "prudential"
 ]
 
-SENDER_EMAIL = "abhinav.abhinavkhare@gmail.com"
+SENDER_EMAIL = "*******@gmail.com"  #Email from which you want to send Email
 SENDER_PASSWORD = "********"  # Your secure 16-character code
-RECEIVER_EMAIL = "abhinav_khare2002@yahoo.com"
+RECEIVER_EMAIL = "*******@yahoo.com"  #Email where you want to receive jos list
 
 DB_FILE = "sent_bfsi_jobs.txt"  # Isolated history tracking file for version 2.0
 
