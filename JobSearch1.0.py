@@ -6,9 +6,9 @@ from jobspy import scrape_jobs  # Bypasses blocks across major portals
 
 KEYWORDS = ["Director Infrastructure", "Principal Architect", "Senior TPM"]
 LOCATION = "Bengaluru, India"
-SENDER_EMAIL = "abhinav.abhinavkhare@gmail.com"
+SENDER_EMAIL = "*****@gmail.com"  #Email from which you want to send ane mail
 SENDER_PASSWORD = "******" 
-RECEIVER_EMAIL = "abhinav_khare2002@yahoo.com"
+RECEIVER_EMAIL = "*******@yahoo.com" # Email where you want to receive  job list
 
 def aggregate_market_jobs():
     print(f"Querying LinkedIn & Indeed for premium roles in {LOCATION}...")
