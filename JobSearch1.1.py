@@ -8,9 +8,9 @@ from jobspy import scrape_jobs
 SEARCH_TERM = "Infrastructure Architect Director SRE TPM"
 LOCATION = "Bengaluru, India"
 
-SENDER_EMAIL = "abhinav.abhinavkhare@gmail.com"
+SENDER_EMAIL = "******@gmail.com"  #Email from whihc you want to send an email
 SENDER_PASSWORD = "********"  # Your secure 16-character code
-RECEIVER_EMAIL = "abhinav_khare2002@yahoo.com"
+RECEIVER_EMAIL = "*******@yahoo.com"  # Email where you want to receive job list
 
 DB_FILE = "sent_jobs.txt"
 
